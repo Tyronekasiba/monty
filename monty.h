@@ -20,7 +20,7 @@ extern char **op_toks;
  *
  * Description: doubly linked list node structure
  * for stack, queues, LIFO, FIFO Holberton project
- * Author: Tyrone kasiba
+ * Author: tyrone kasiba
  */
 typedef struct stack_s
 {
