@@ -9,6 +9,7 @@ int check_mode(stack_t *stack);
  * free_stack - Frees a stack_t stack.
  * @stack: A pointer to the top (stack) or
  *         bottom (queue) of a stack_t.
+ * Author : tyrone kasiba
  */
 void free_stack(stack_t **stack)
 {
